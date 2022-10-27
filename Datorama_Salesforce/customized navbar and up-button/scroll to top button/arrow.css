@@ -1,0 +1,13 @@
+.edited {
+    background-color: transparent;
+    border-style: none;
+    margin: 10px 0 10px 30px;
+}
+
+.arrow-edited {
+    color: green !important;
+}
+
+.arrow-edited:hover {
+    color: #97D700 !important;
+}

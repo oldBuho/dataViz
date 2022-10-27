@@ -1,0 +1,18 @@
+/* we use !important to step over the boostrap classes without pain */
+/* at least in this case we comply with the rule of no more than 5 of this per css file XD */
+
+.edited {
+    background-color: none;
+    padding: 20px 10px;
+    font-size: 40px !important;
+  }
+  
+  .button-edited {
+    font-size: 15px !important;
+  }
+  
+  .button-edited:hover {
+    background-color: #97D700 !important;
+    border-color: #97D700 !important;
+    border-radius: 0 20px 0 20px;
+  }
